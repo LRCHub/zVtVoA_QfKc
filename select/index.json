@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ファーストエイド",
+  "base_artist": "琶舞",
+  "createdAt": "2026-01-13T18:45:35.274310Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ファーストエイド",
+      "artist": "琶舞",
+      "has_synced": false,
+      "path": "select/pl_01_ファーストエイド_琶舞.txt"
+    }
+  ]
+}
